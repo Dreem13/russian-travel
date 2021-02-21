@@ -1,0 +1,11 @@
+.lead__image_subtitle {
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+	font-size: 10px;
+	line-height: 14px;
+	font-weight: 400;
+	text-align: left;
+	align-self: flex-start;
+	margin-left: 148px; 
+}

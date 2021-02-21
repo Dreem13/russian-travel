@@ -1,0 +1,9 @@
+.place__website {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    justify-self: self-start;
+    align-self: self-end;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
