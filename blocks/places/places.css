@@ -11,11 +11,19 @@
 	}
 }
 
-@media screen and (max-width: 1073px) {
-	.places {
-		margin: 0;
-		margin: 88px 24px 0 24px;
+@media screen and (max-width: 1023px) {
+.places {
+	margin: 0;
+	margin: 88px 24px 0 24px;
+	max-width: calc(100% - 24px*2);
 	}
+}
+
+@media screen and (max-width: 320px) {
+.places {
+	margin: 0;
+	margin: 64px 16px 0 16px;
 	}
+}
 
 	
