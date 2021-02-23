@@ -5,11 +5,30 @@
     padding: 0;
     text-align: left;
     font-size: 18px;
-    line-height: 29,34px;
+    line-height: 29px;
     font-weight: 400;
     width: 484px;
 }
 
 .place__paragraph:first-of-type {
     margin-bottom: 26px;
+}
+
+@media screen and (max-width: 1073px) {
+    .place__paragraph:first-of-type {
+        margin-bottom: 25px;
+    }
+    
+    .place__paragraph {
+        font-size: 16px;
+        line-height: 26px;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .place__paragraph {
+        line-height: 24px;
+
+    }
 }
