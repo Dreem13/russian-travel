@@ -1,4 +1,4 @@
-.footer__link_group {
+.footer__link-group {
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -7,14 +7,14 @@
 }
 
 @media screen and (max-width: 350px) {
-    .footer__link_group {
+    .footer__link-group {
         flex-direction: column;
         margin-bottom: 48px;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .footer__link_group {
+    .footer__link-group {
         flex-direction: column;
         margin-bottom: 48px;
     }
