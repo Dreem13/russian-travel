@@ -30,7 +30,7 @@
 }
 
 .cover__item:hover:before {
-    opacity: .3;
+    opacity: .5;
 }
 
 @media screen and (max-width: 1279px) {
