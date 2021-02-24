@@ -9,3 +9,9 @@
 .place__website__link:hover {
 	opacity: .5;
 }
+
+@media screen and (max-width: 425px) {
+    .place__website__link {
+        font-size: 12px;
+    }
+}

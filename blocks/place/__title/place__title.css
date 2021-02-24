@@ -18,12 +18,20 @@
 
 @media screen and (max-width: 1073px) {
 .place__title {
-/*max-width: 320px;*/          /* для выравнивания текста по макету */
+max-width: 320px;         /* для выравнивания текста по макету */
 line-height: 46px;
 font-size: 42px;
 align-self: end;
 text-align: start;
 }
+}
+
+@media screen and (max-width: 425px) {
+    .place__title {
+    max-width: 120px;
+    font-size: 30px;
+    line-height: 42px;
+    }
 }
 
 @media screen and (max-width: 320px) {
