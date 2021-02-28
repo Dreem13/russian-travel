@@ -6,16 +6,10 @@
     padding: 0;
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 425px) {
     .footer__link-group {
         flex-direction: column;
         margin-bottom: 48px;
     }
 }
 
-@media screen and (max-width: 320px) {
-    .footer__link-group {
-        flex-direction: column;
-        margin-bottom: 48px;
-    }
-}

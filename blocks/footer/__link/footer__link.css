@@ -9,7 +9,7 @@
 }
 
 .footer__link:hover {
-	opacity: .5;
+	opacity: .8;
 }
 
 @media screen and (max-width: 720px) {
@@ -32,15 +32,7 @@
     }
 }
 
-
 @media screen and (max-width: 425px) {
-    .footer__link {
-        font-size: 8px;
-        margin-right: 5px;
-    }
-}
-
-@media screen and (max-width: 320px) {
     .footer__link {
         font-size: 24px;
         line-height: 24px;

@@ -1,0 +1,12 @@
+.header__link_active {
+    margin-right: 10px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    color: white;
+    transition: all 1s ease 0s;
+}
+
+.header__link_active:hover {
+    opacity: .8;
+}

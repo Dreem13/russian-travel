@@ -4,4 +4,6 @@
     font-weight: 400;
     margin: 0;
     margin-bottom: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
 }
