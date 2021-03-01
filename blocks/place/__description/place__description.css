@@ -1,8 +1,9 @@
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
 .place__description {
 margin-left: 16px;
 margin-right: 16px;
 grid-column: 1/2;
 grid-row: 4/5;
+margin: 0;
 }
 }

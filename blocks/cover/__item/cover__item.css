@@ -48,6 +48,18 @@
     }
 }
 
+@media screen and (min-width: 767px) {
+  .cover__item {
+        margin-top: 77px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover__item {
+        margin-top: 66px;
+  }
+}
+
 @media screen and (max-width: 500px) {
     .cover__item {
         min-height: 312px;

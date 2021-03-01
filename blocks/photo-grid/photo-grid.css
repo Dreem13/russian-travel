@@ -21,9 +21,9 @@
 		grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
 		grid-gap: 16px;
 		}
-	}	
-	
-@media screen and (max-width: 425px) {
+	}
+
+@media screen and (max-width: 767px) {
 	.photo-grid {
 		grid-template-columns: 1fr;
 		margin: 64px 16px 0 16px;
