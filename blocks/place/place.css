@@ -23,7 +23,7 @@
 @media screen and (max-width: 1023px) {
     .place {
         grid-template-columns: auto minmax(352px, 1fr);
-        grid-template-rows: 92px 1fr;
+        grid-template-rows: auto 1fr;
         justify-items: start;
         margin-bottom: 73px;
         }

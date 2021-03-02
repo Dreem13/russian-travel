@@ -7,18 +7,6 @@
 
 @media screen and (max-width: 720px) {
     .footer__copyright {
-        font-size: 10px;
-    }
-}
-
-@media screen and (max-width: 500px) {
-    .footer__copyright {
-        font-size: 8px;
-    }
-}
-
-@media screen and (max-width: 425px) {
-    .footer__copyright {
         font-size: 14px;
         line-height: 14px;
     }
